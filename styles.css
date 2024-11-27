@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#login-form, #attendance {
+    margin-top: 20px;
+}
+
+input {
+    margin: 5px;
+}
